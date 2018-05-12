@@ -12,6 +12,7 @@ module.exports = {
   siteMetadata: {
     title: 'Yoga Layout',
   },
+  pathPrefix: "/yoga",
   plugins: [
     // using latest react version
     'gatsby-plugin-react-next',

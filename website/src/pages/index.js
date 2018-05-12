@@ -81,6 +81,9 @@ const HeroSection = () => (
           source layout engine designed with speed, size, and ease of use in
           mind.
         </p>
+        <p>
+          Yoga 한글 번역 저장소입니다.
+        </p>
 
         <Link to="/docs">
           <Button type="primary" className="button">
