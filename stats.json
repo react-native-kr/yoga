@@ -5,8 +5,8 @@
       "path---docs-align-items-c69a96a63663ae90280a.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-70102901fa1778e49ad1.js",
-      "component---src-pages-index-js-70102901fa1778e49ad1.js.map"
+      "component---src-pages-index-js-f8990d4edfbcd5843a56.js",
+      "component---src-pages-index-js-f8990d4edfbcd5843a56.js.map"
     ],
     "component---src-templates-without-playground-js": [
       "component---src-templates-without-playground-js-c846644ebb9112e0fea6.js",
@@ -33,8 +33,8 @@
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-0b75453a44c1a86c77a8.js",
-      "path---docs-0b75453a44c1a86c77a8.js.map"
+      "path---docs-6602857d86257f1fbac1.js",
+      "path---docs-6602857d86257f1fbac1.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -95,9 +95,9 @@
       "path---contributing-opening-a-pull-request-a6d3bff3eba8a018745b.js.map"
     ],
     "app": [
-      "app-1c15d6b188f0721aacbd.js",
+      "app-7e61396d97f236d13430.js",
       "build-js-styles.css",
-      "app-1c15d6b188f0721aacbd.js.map",
+      "app-7e61396d97f236d13430.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
