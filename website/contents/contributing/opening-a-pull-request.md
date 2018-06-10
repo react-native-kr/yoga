@@ -1,6 +1,6 @@
 ---
 path: "/contributing/opening-a-pull-request"
-title: "Opening a Pull Request"
+title: "Opening a Pull Request Test"
 hasPlayground: false
 ---
 
