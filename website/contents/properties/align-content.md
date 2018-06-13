@@ -10,6 +10,9 @@ initialPlayground: eyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjUwMCwiYWxpZ25Db250ZW50IjoxLCJmb
 Align content defines the distribution of lines along the cross-axis. This only
 has effect when items are wrapped to multiple lines using [`flex wrap`](/docs/flex-wrap).
 
+컨텐츠 Align은 교차축(cross-axis)을 따라 선이 배치되는 것을 정의한다. 이는 아이템들이 여러개의 선으로
+묶여있을 때만 효과가 있습니다. 
+
 **FLEX START (DEFAULT)** Align wrapped lines to the start of the container's cross axis.
 
 **FLEX END** Align wrapped lines to the end of the container's cross axis.
