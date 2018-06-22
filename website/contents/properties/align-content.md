@@ -13,7 +13,7 @@ has effect when items are wrapped to multiple lines using [`flex wrap`](/docs/fl
 컨텐츠 Align은 교차축(cross-axis)을 따라 선이 배치되는 것을 정의한다. 이는 아이템들이 여러개의 선으로
 묶여있을 때만 효과가 있습니다. 
 
-**FLEX START (DEFAULT)** Align wrapped lines to the start of the container's cross axis.
+**FLEX START (DEFAULT)** Align wrapped lines to the start of the container's cross axis.</n>
 **FLEX START (DEFAULT)** 아이템들을 containor의 cross-axis 시작부분에 정렬시킨다.
 
 **FLEX END** Align wrapped lines to the end of the container's cross axis.
