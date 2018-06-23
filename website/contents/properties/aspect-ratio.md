@@ -23,10 +23,19 @@ Yoga의 `aspect ratio` property는 다음과 같은 속성을 갖는다:
 
 - Defined as the ratio between the `width` and the `height` of a node e.g. if a node has an aspect ratio of 2 then its `width` is twice the size of its `height`.
 
-- 
+- node의 `width`와 `height`간의 비율로 정의된다. e.g. 만약 node가 2의 aspect ratio를 가지고 있다면
+해당 node의 `width`는 `height`의 두배의 크기를 가진다.
 
 - Respects the `min` and `max` dimensions of an item.
+
+- item의 `min` 과 `max` 값을 인정한다.
+
 - Has higher priority than `flex grow`
+
+- `flex grow` 보다 우선순위를 가진다.
+
 - If `aspect ratio`, `width`, and `height` are set then the cross axis dimension is overridden.
+
+- 만약 `aspect ratio`, `width` 그리고 `height`가 설정되면 cross axis 수치는 override 된다.
 
 <controls prop="aspectRatio"></controls>
