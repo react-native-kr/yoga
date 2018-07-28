@@ -6,6 +6,20 @@ hasPlayground: true
 
 ## Width and Height
 
+Yoga의 `width` 프로퍼티는 엘리먼트의 컨텐츠 영역의 넓이를 명시합니다.
+유사하게, `height` 프로퍼티는 엘리먼트의 컨텐츠 영역의 높이를 명시합니다.
+
+`width`와 `height` 모두 아래의 값들을 갖습니다.
+
+**AUTO** 는 기본 값입니다. Yoga는 엘리먼트가 갖는 children, text 또는 image 등과 같은 컨텐츠를 기반으로 넓이/높이를 계산합니다.
+
+**PIXELS** 절대 픽셀 값을 통해 넓이/높이를 정의합니다. Yoga 노드에 설정된 다른 프로퍼티들에 따라, 절대 픽셀 값이 노드의 최종 크기로 사용될 지 결정됩니다.
+
+**PERCENTAGE** 부모의 넓이 또는 높이의 백분율로 넓이/높이를 각각 정의합니다.
+
+<!--
+## Width and Height
+
 The `width` property in Yoga specifies the width of the element's content area.
 Similarly `height` property specifies the height of the element's content area.
 
@@ -18,6 +32,7 @@ on its content, whether that is other children, text, or an image.
 the Yoga node this may or may not be the final dimension of the node.
 
 **PERCENTAGE** Defines the width or height in percentage of its parent's width or height respectively.
+-->
 
 ### Width
 <controls prop="width"></controls>
